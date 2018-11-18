@@ -1,4 +1,4 @@
-# work readmea readme
+# work dubbo-admin-2.5.4.zip
 
 注：lib包下，若没有
 groovy-all-2.1.7
